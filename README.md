@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @FatemeSedaghat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me fatemeh.s2005@gmail.com
+Hi, I'm Fatemeh :ِِD
+Computer Engineering Student
+Interested in AI, Web Development, and Software Engineering
+Experienced in Telegram Bot Development and SQL
+Currently learning JavaScript
+Planning to learn React and Node.js
+Always learning and building new things
+
+Contact: fatemeh.s2005@gmail.com
