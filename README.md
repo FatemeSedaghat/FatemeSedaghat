@@ -6,4 +6,4 @@ Currently learning JavaScript.
 Planning to learn React and Node.js.
 Always learning and building new things.
 
-Contact: fatemeh.s2005@gmail.com
+Contact: fatemehsedaghatju@gmail.com
